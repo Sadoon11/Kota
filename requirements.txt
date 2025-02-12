@@ -1,0 +1,13 @@
+yfinance==0.2.36
+pandas==2.2.1
+numpy==1.26.4
+matplotlib==3.8.3
+plotly==5.19.0
+streamlit==1.31.1
+scikit-learn==0.24.2
+
+# Testing and Development
+pytest==7.4.4
+flake8==6.1.0
+black==24.1.1
+mypy==1.8.0
